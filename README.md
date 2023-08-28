@@ -38,4 +38,4 @@ Delving into Vaunt Wholesale's product revenue distribution, this visualization 
 Ever wonder what type of shipping most people opt for on Amazon? Should come as no surprise that Standard is the most popular and Prime's 2-day ranks next.
 
 # Summary
-This project takes a close look at Vaunt Wholesale LLC's Amazon FBA business for the first half of 2023. With detailed data analysis and cool visuals, we look into revenue distribution, trends, sales volume, top products, and shipping choices.
+This project takes a close look at my Amazon FBA business Vaunt Wholesale for the first half of 2023. With detailed data analysis and cool visuals, we look into revenue distribution, trends, sales volume, top products, and shipping choices.
