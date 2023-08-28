@@ -1,4 +1,9 @@
 # Vaunt Wholesale Time Series Analysis
+
+[![NumPy](https://img.shields.io/badge/NumPy-Scientific%20Computing-green)](https://numpy.org)
+[![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-red)](https://pandas.pydata.org)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue)](https://matplotlib.org/)
+
 A deep analytical dive into my Amazon FBA business Vaunt Wholesale LLC for the first 6 months of 2023. Let's explore what's working and where the money is flowing!
 
 # Project Steps
