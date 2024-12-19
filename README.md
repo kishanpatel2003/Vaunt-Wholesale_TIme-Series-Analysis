@@ -4,7 +4,7 @@
 [![pandas](https://img.shields.io/badge/pandas-Data%20Analysis-red)](https://pandas.pydata.org)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Data%20Visualization-blue)](https://matplotlib.org/)
 
-A deep analytical dive into my Amazon FBA business Vaunt Wholesale LLC for the first 6 months of 2023. Let's explore what's working and where the money is flowing!
+A deep analytical dive into my Amazon FBA business Vaunt Wholesale LLC for the first 6 months of 2023.
 
 # Project Steps
 - Compiled a dataset (***~9000 data points***) by extracting/concatenating business reports generated monthly by Amazon
